@@ -5,8 +5,11 @@ Analisar dados de abordagens policiais para identificar padrões relacionados a 
 Ferramentas utilizadas
 
 -Python
+
 -pandas
+
 -Power BI
+
 
 Principais análises
 
